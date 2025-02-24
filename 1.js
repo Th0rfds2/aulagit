@@ -1,0 +1,1 @@
+console.log('Aulagit/1.js');
